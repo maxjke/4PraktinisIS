@@ -1,0 +1,7 @@
+D:\c# codes\4Praktinis3App\4Praktinis3App\bin\Debug\4Praktinis3App.exe.config
+D:\c# codes\4Praktinis3App\4Praktinis3App\bin\Debug\4Praktinis3App.exe
+D:\c# codes\4Praktinis3App\4Praktinis3App\bin\Debug\4Praktinis3App.pdb
+D:\c# codes\4Praktinis3App\4Praktinis3App\obj\Debug\4Praktinis3App.csproj.AssemblyReference.cache
+D:\c# codes\4Praktinis3App\4Praktinis3App\obj\Debug\4Praktinis3App.csproj.CoreCompileInputs.cache
+D:\c# codes\4Praktinis3App\4Praktinis3App\obj\Debug\4Praktinis3App.exe
+D:\c# codes\4Praktinis3App\4Praktinis3App\obj\Debug\4Praktinis3App.pdb
